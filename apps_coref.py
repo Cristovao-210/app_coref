@@ -7,6 +7,7 @@ st.markdown('<br><br>', unsafe_allow_html=True)
 st.write("[Gerador de Atos de Função](https://documentoscoref-nfj6b83kne.streamlit.app/)")
 st.write("[Gerador de tabela PSS](https://tabelapss-k2js388bwam.streamlit.app/)")
 st.write("[Gerador de Formulário para Solicitação de GECC](https://formulariogecc-uhryd689yyo.streamlit.app/)")
+st.write("PowerApps: [GECC - CÁLCULO DAS ATIVIDADES EXECUTADAS](https://apps.powerapps.com/play/e/default-ec359ba1-630b-4d2b-b833-c8e6d48f8059/a/064aafa7-f171-4e47-a514-81c7ad42ba51?tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059&hint=b8ae9280-ef82-4b3a-ad91-552253996d79&sourcetime=1693947613880)")
 
 st.markdown('<br><br>', unsafe_allow_html=True)
 st.subheader("Links do GOOGLE COLAB")
